@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on flask
+I'm currently working on flutter applications
 
 
 ## 🌐 Socials:
