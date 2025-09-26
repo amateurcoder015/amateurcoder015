@@ -52,8 +52,8 @@
 [![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amateurcoder015&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015)
 
 <!-- PINNED REPOS -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=IPL-ML-Project&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/IPL-ML-Project)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=UFC-Fight-Predictor&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/UFC-Fight-Predictor)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=Shopping-App&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/IPL-ML-Project)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=BhavyaKothari-ResumeSite&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/UFC-Fight-Predictor)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=Asthma-Prediction&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/Asthma-Prediction)  
 
 ---
@@ -63,8 +63,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amateurcoder015&icon=5&color=6" alt="Profile Visit Count"/>
-</p>
