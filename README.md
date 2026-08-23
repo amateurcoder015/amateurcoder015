@@ -42,25 +42,4 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
----
-
-
-## 📊 GitHub Stats
-
-
-<!-- PROFILE STATS -->
-[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amateurcoder015&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015)
-
-<!-- PINNED REPOS -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=Shopping-App&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/IPL-ML-Project)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=BhavyaKothari-ResumeSite&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/UFC-Fight-Predictor)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amateurcoder015&repo=Asthma-Prediction&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/amateurcoder015/Asthma-Prediction)  
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
 
